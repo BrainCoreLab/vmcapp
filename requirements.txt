@@ -1,0 +1,4 @@
+PyYAML>=4.2b1
+pytest==3.4.2
+Flask
+pyserial
